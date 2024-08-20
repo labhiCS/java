@@ -49,16 +49,3 @@ For example:
  For example:
  
  `$ git clone -b week4 github_repo-link`
-
-#### Common terminal commands 
-`$ cd ..` => go back a folder 
-
-`$ cd 'folder'` => go inside a folder 
-
-`$ ls ` ===> list directories 
-
-#### Anaconda  activate
-
-`$ source ~/anaconda3/bin/activate root`
-
-`$ jupyter-notebook`
