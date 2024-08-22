@@ -58,6 +58,6 @@ For example:
 `$ ls ` ===> list directories 
 
 
-`$ ` git config --global user.name "Your name"
+`$ ` ==> git config --global user.name "Your name"
 `$ ` git config --global user.email"Your @email"
 `$ ` git config --global--list
