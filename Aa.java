@@ -1,5 +1,3 @@
-package java;
-
 public class Aa{
     public void display(String name){
         System.out.println(name);
