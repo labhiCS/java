@@ -34,9 +34,7 @@ public class Product {
         product1.setPrice(299);
 
         System.out.println(product1.getProduct_ID());
-
+        System.out.println(product1.getName());
+        System.out.println(product1.getPrice());
     }
-
-    
 }  
-
