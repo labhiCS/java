@@ -2,9 +2,29 @@
 Learning of java programming in my 2nd Semester.
 
 #### Git commands 
-`$ git add  filename.py`
+`$ git config --global user.name "Your name"`
+
+`$ git config --global user.email "your @email.com`
+
+`$ git config --global --list `
+
+`$ git status `
+
+`$ git init `
+
+* to add all file at a time
+
+`$ git add .`
+
+`$ git add  filename.java`
 
 `$ git commit -m message`
+
+`$ git push -u origin main`
+
+* to check previous commit.
+
+`$ git log`
 
 `$ git push -u origin main`
 
