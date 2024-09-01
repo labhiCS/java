@@ -24,10 +24,10 @@ public class Student_1 {
     public static void main(String[] args) {
         Student_1 student_1 = new Student_1();
         student_1.setAge(19);
-        student_1.setName("Abhishek Lamichhane");
+        student_1.setName("Abhishek Lamichhane.");
 
         System.out.println("Name: " + student_1.getName());
-        System.out.println(student_1.getAge());
+        System.out.println("Age: " + student_1.getAge());
         
     }   
 }
