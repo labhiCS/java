@@ -1,8 +1,8 @@
 public class Ram {
     int num, den;
     public Ram(){
-        this.num = 20;
-        this.den = 29;
+        this.num = 25;
+        this.den = 50;
 
     }
     public void display(){
