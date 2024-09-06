@@ -16,8 +16,8 @@ public class Constructor {
     }
 
     public void display(){
-        System.out.println("The number is: " + num);
-        System.out.println("Another number is: "+ den);
+        System.out.println("* The number is: " + num);
+        System.out.println("* Another number is: "+ den);
     }
 
     public static void main (String []args){
@@ -25,8 +25,15 @@ public class Constructor {
         Constructor a1 = new Constructor(20, 30);
         Constructor a2 = new Constructor(a);
 
+        System.out.println("Default Constructor."); 
         a.display();
-        a1.display(); 
+        System.out.println("\n"); 
+        
+        System.out.println("Parameterized Constructor."); 
+        a1.display();
+        System.out.println("\n");
+
+        System.out.println("Copy Constructor."); 
         a2.display();
     }
     
