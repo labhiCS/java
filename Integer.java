@@ -3,14 +3,13 @@ public class Integer{
     int m, n;
 
     public Integer(){
-        this.m = 1;
-        this.n = 1;
+        this.m = 44;
+        this.n = 18;
     }
 
     public void display(){
         System.out.println("m = " + m);
         System.out.println("n = " + n);
-
     }
 
     public static void main(String[] args){
