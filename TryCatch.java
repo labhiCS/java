@@ -2,6 +2,8 @@ import java.io.FileInputStream;
 
 public class TryCatch {
     public static void main(String[] args) throws Exception{
+
+        //Create a new file and copy and past the file path here"C://..."!!!!
         String filePath = "C://Desktop//abhi.text";
         FileInputStream fis = null;
         
