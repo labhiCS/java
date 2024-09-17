@@ -19,7 +19,12 @@ public class Tutee {
         Tutee obj = new Tutee();
         obj.setAge(23);
 
+        Tutee obj1 = new Tutee();
+        obj1.setAge(29);
+
+
         System.out.println("Student age: " + obj.getAge());
+        System.out.println("Student age: " + obj1.getAge());
     }
     
 }
